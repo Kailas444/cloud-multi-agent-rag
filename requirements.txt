@@ -1,0 +1,10 @@
+google-generativeai
+langchain
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+fastapi
+uvicorn
+gradio
+requests
